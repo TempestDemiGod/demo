@@ -1,11 +1,11 @@
 {
-    "suite" = {
+    "suite" : {
             "descriptionLabel": "floor - 8°",
             "price": 1000,
             "photo": "https://i.pinimg.com/originals/12/49/bb/1249bb67679def5ae551ea1a19491b86.jpg",
             "title": "lexury suite"
       } ,
-      "rooms" = [
+      "rooms" : [
             {
                 "price": "140",
                 "photo": "https://img.freepik.com/fotos-premium/interior-habitacion-hotel-flores-mesa-contra-fondo-tv_593040-4745.jpg"
