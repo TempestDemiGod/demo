@@ -1,88 +1,38 @@
 {
-      "estreno-01" : [
+    "suite" = {
+            "descriptionLabel": "floor - 8°",
+            "price": 1000,
+            "photo": "https://i.pinimg.com/originals/12/49/bb/1249bb67679def5ae551ea1a19491b86.jpg",
+            "title": "lexury suite"
+      } ,
+      "rooms" = [
             {
-              "id": 1,
-              "title": "Samaritan (2022)",
-              "year": 2022,
-              "description": "Sam Cleary (Javon «Wanna» Walton), un joven de 13 años, sospecha que su misterioso y solitario vecino, el Sr. Smith (Sylvester Stallone), es en realidad un personaje legendario que se esconde a plena vista.",
-              "photo": "https://image.tmdb.org/t/p/w300/zJcjdAJEfTjFbMXiQmHzDilKS1M.jpg?x93679",
-              "url":"https://cdn2.tokyvideo.com/videos/165/165804/mp4/691195a69606351bd964c589f8a62ff3b1ed8cb4bcd7611e4c65283674d583d2.mp4?nva=20220912135708&nvb=20220908135708&token=083391979b99f684acf6b"
+                "price": "140",
+                "photo": "https://img.freepik.com/fotos-premium/interior-habitacion-hotel-flores-mesa-contra-fondo-tv_593040-4745.jpg"
             },
             {
-              "id":2,
-              "title": "Francotirador: misión secreta (2022)",
-              "year": 2022,
-              "description": "Cuando un agente federal corrupto está involucrado en una red de tráfico sexual de personas, Sniper y el novato de la CIA Brandon Beckett se vuelven rebeldes y se unen a sus antiguos aliados.",
-              "photo": "https://image.tmdb.org/t/p/w300/kSa4oTQmI9EhYK3g7RQcUigGWCc.jpg?x93679",
-              "url":"https://cdn2.tokyvideo.com/videos/166/166136/mp4/32de5920bb089b9a482492ad6964059dd07db653591a149891b37a27bb7db8ee.mp4?nva=20220908170221&nvb=20220904170221&token=05b62b1b7242d7750cdff"
+                "price": "120",
+                "photo": "https://images.unsplash.com/photo-1590675560125-0d832b9d719e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
             },
             {
-              "id":3,
-              "title": "Barrenderos espaciales (2021)",
-              "year": 2021,
-              "description": "Un grupo de astronautas se encuentran en una estación espacial. Tae Ho es un piloto de la nave ‘Spaceship Victory’ en la que la Capitana, Park Tigre y el robot son parte de la tripulación.",
-              "photo": "https://image.tmdb.org/t/p/w300/vOefWMYqC1S3aiCTD5MD8HeXl0Y.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+                "price": "180",
+                "photo": "https://png.pngtree.com/thumb_back/fh260/background/20230929/pngtree-one-man-s-desk-in-a-hotel-room-near-a-city-image_13302289.jpg"
             },
             {
-              "id":4,
-              "title": "La maniobra de la tortuga (2022)",
-              "year": 2022,
-              "description": "El inspector Manuel Bianquetti es trasladado a Cádiz, un destino tranquilo al que está obligado a aceptar. Un día, el asesinato embarca al inspector en uno de los casos más impactantes de su carrera. ",
-              "photo": "https://image.tmdb.org/t/p/w300/fhbAEkrf1pTuQ6EqmL5lpYhYYPJ.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+                "price": "200",
+                "photo": "https://www.ihcshotelconsulting.com/wp-content/uploads/2023/07/albert-vincent-wu-AkqnZZR1oL4-unsplash-277x492.jpg"
             },
             {
-              "id":5,
-              "title": "Creation Stories (2021)",
-              "year": 2021,
-              "description": "La verdadera historia del ascenso y caída de Creation Records y su infame fundador Alan McGee; el hombre responsable de suministrar la banda sonora del “Brit Pop” a los 90.",
-              "photo": "https://image.tmdb.org/t/p/w300/7sEbuICGmFqooR5dbYQQpQa1zYo.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+                "price": "130",
+                "photo": "https://images.trvl-media.com/lodging/49000000/49000000/48995300/48995229/a5ad3347.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+            },
+            {
+                "price": "145",
+                "photo": "https://wallpapercave.com/wp/wp12082302.jpg"
+            },
+            {
+                "price": "192",
+                "photo": "https://images.bestwestern.com/bwi/brochures/05709/photos/1024/25787739.jpg"
             }
-     ],
-     
-     "terror" : [
-            {
-              "id": 1,
-              "title": "El secreto de Sinchanee (2021)",
-              "year": 2021,
-              "description": "Un conductor de grúas industriales que sufre de insomnio vuelve a su casa de la infancia tras la muerte prematura de su padre, para descubrir que una presencia paranormal.",
-              "photo": "https://image.tmdb.org/t/p/w300/lgfrROqEoYff8wA7vURs1f5qsPA.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-            },
-            {
-              "id":2,
-              "title": "She Will (2022)",
-              "year": 2022,
-              "description": "Veronica, una estrella de cine envejecida, se retira a la campiña escocesa con su enfermera Desi para recuperarse de una doble mastectomía.",
-              "photo": "https://image.tmdb.org/t/p/w300/gxPJZuIBeesHi5gkxtvvXboJ420.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-            },
-            {
-              "id":3,
-              "title": "La huérfana: Primer asesinato (2022)",
-              "year": 2022,
-              "description": "Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada.",
-              "photo": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-            },
-            {
-              "id":4,
-              "title": "Historias que no te atreves a contar (2021)",
-              "year": 2021,
-              "description": "Un reportero recopila historias de un supuesto complejo de apartamentos embrujado.",
-              "photo": "https://image.tmdb.org/t/p/w300/cb54aGmSPs9IZZjMZv4WKU4OXi5.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-            },
-            {
-              "id":5,
-              "title": "Glorious (2022)",
-              "year": 2022,
-              "description": "Después de una ruptura, Wes termina en una parada de descanso remota. Se encuentra encerrado dentro del baño con una figura misteriosa que habla desde un puesto adyacente.",
-              "photo": "https://image.tmdb.org/t/p/w300/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg?x93679",
-              "url":"https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-            }
-     ]
-      
-  }
+      ]
+}
