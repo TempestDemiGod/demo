@@ -3,36 +3,44 @@
             "descriptionLabel": "floor - 8°",
             "price": 1000,
             "photo": "https://i.pinimg.com/originals/12/49/bb/1249bb67679def5ae551ea1a19491b86.jpg",
-            "title": "lexury suite"
+            "title": "lexury suite",
+            "reserved": false
       } ,
       "rooms" : [
             {
                 "price": "140",
-                "photo": "https://img.freepik.com/fotos-premium/interior-habitacion-hotel-flores-mesa-contra-fondo-tv_593040-4745.jpg"
+                "photo": "https://img.freepik.com/fotos-premium/interior-habitacion-hotel-flores-mesa-contra-fondo-tv_593040-4745.jpg",
+                "reserved": true
             },
             {
                 "price": "120",
-                "photo": "https://images.unsplash.com/photo-1590675560125-0d832b9d719e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+                "photo": "https://images.unsplash.com/photo-1590675560125-0d832b9d719e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+                "reserved": false
             },
             {
                 "price": "180",
-                "photo": "https://png.pngtree.com/thumb_back/fh260/background/20230929/pngtree-one-man-s-desk-in-a-hotel-room-near-a-city-image_13302289.jpg"
+                "photo": "https://png.pngtree.com/thumb_back/fh260/background/20230929/pngtree-one-man-s-desk-in-a-hotel-room-near-a-city-image_13302289.jpg",
+                "reserved": true
             },
             {
                 "price": "200",
-                "photo": "https://www.ihcshotelconsulting.com/wp-content/uploads/2023/07/albert-vincent-wu-AkqnZZR1oL4-unsplash-277x492.jpg"
+                "photo": "https://www.ihcshotelconsulting.com/wp-content/uploads/2023/07/albert-vincent-wu-AkqnZZR1oL4-unsplash-277x492.jpg",
+                "reserved": false
             },
             {
                 "price": "130",
-                "photo": "https://images.trvl-media.com/lodging/49000000/49000000/48995300/48995229/a5ad3347.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+                "photo": "https://images.trvl-media.com/lodging/49000000/49000000/48995300/48995229/a5ad3347.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                "reserved": false
             },
             {
                 "price": "145",
-                "photo": "https://wallpapercave.com/wp/wp12082302.jpg"
+                "photo": "https://wallpapercave.com/wp/wp12082302.jpg",
+                "reserved": false
             },
             {
                 "price": "192",
-                "photo": "https://images.bestwestern.com/bwi/brochures/05709/photos/1024/25787739.jpg"
+                "photo": "https://images.bestwestern.com/bwi/brochures/05709/photos/1024/25787739.jpg",
+                "reserved": false
             }
       ]
 }
